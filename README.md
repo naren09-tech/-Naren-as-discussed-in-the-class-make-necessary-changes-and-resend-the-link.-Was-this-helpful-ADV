@@ -1,1 +1,1 @@
-# -Naren-as-discussed-in-the-class-make-necessary-changes-and-resend-the-link.-Was-this-helpful-ADV
+# -ADV-C132: OBJECT DETECTION ON IMAGES - PART 2
